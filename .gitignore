@@ -1,0 +1,26 @@
+# Node / frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Rust / Tauri backend
+target/
+gpust/src-tauri/target/
+gpust/src-tauri/gen/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.sw?
