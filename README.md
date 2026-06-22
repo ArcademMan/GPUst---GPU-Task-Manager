@@ -39,8 +39,8 @@ the standard Task Manager makes it awkward to spot what keeps the GPU busy at id
 ### From source
 
 ```bash
-git clone https://github.com/ArcademMan/GPUst---GPU-Task-Manager.git
-cd GPUst---GPU-Task-Manager/gpust
+git clone https://github.com/ArcademMan/GPUst.git
+cd GPUst/gpust
 npm install
 npm run tauri dev
 ```
@@ -49,7 +49,7 @@ npm run tauri dev
 
 ### From release
 
-1. Download the latest `gpust_x.y.z_x64-setup.exe` from [Releases](https://github.com/ArcademMan/GPUst---GPU-Task-Manager/releases)
+1. Download the latest `gpust_x.y.z_x64-setup.exe` from [Releases](https://github.com/ArcademMan/GPUst/releases)
 2. Run the installer
 3. Launch **GPUst**
 
